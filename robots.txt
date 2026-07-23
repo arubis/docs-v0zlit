@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ywhzeu.rasimaal.com/sitemap.xml
